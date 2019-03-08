@@ -1,0 +1,13 @@
+{
+    "id": "BarbarianPlugin",
+    "name": "Barbarian Units",
+    "author": {
+        "author_id": "nallath",
+        "display_name": "Jaime van Kessel",
+        "email": "nallath@gmail.com",
+        "website": "https://github.com/nallath"
+    },
+    "version": "2.2.0",
+    "api": 4,
+    "description": "Extension that allows to quickly convert models in inches to metric."
+}

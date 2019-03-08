@@ -1,0 +1,32 @@
+{
+    "installed": {
+        "BarbarianPlugin": {
+            "filename": "C:\\Users\\flugv\\AppData\\Local\\cura\\3.4\\cache\\cura_packages\\BarbarianPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "nallath",
+                    "display_name": "Jaime van Kessel",
+                    "email": "nallath@gmail.com",
+                    "website": "https://github.com/nallath"
+                },
+                "description": "Extension that allows to quickly convert models in inches to metric.",
+                "display_name": "Barbarian Units",
+                "package_id": "BarbarianPlugin",
+                "package_type": "plugin",
+                "package_version": "2.2.0",
+                "sdk_version": 4,
+                "tags": [
+                    "plugin",
+                    "barbarian",
+                    "metric",
+                    "imperial",
+                    "conversion"
+                ],
+                "website": "https://github.com/nallath/BarbarianPlugin"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}
